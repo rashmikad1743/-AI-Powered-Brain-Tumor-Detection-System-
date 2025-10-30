@@ -1,16 +1,4 @@
-# AI-Powered Brain Tumor Detection System
 
-An easy-to-run Streamlit application that loads a trained Keras model to detect and classify brain tumors from MRI scans. This repository contains the inference app (`app.py`) and expects a Keras model file (`brain_tumor_detection_model.h5`) in the project root.
-
-## 🧠 Overview
-
-This project provides a simple web interface to upload MRI images and receive model predictions (binary tumor detection or multi-class tumor types). It is intended for research and educational use only and is **not** a substitute for professional medical advice.
-
-## ✨ Features
-
-- Upload MRI scans (JPG/PNG) and get instant model predictions.
-- Multi-class support for models trained to classify different tumor types (e.g., Glioma, Meningioma, Pituitary).
-<!-- Project README for a polished GitHub appearance -->
 
 # AI-Powered Brain Tumor Detection System
 
